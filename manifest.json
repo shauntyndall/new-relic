@@ -1,0 +1,14 @@
+{
+"name": "New Relic",
+"manifest_version": 2,
+"version": "1.0",
+"icons": { "128": "icon.png" },
+"app": {
+"urls": [
+"http://www.shauntyndall.com/"
+],
+"launch": {
+"web_url": "http://www.shauntyndall.com/new-relic"
+}
+}
+}
